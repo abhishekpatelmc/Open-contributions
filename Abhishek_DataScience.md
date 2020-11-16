@@ -1,4 +1,4 @@
-# Python
+# Python Topics
 ```
 Variables
 Data Types
@@ -10,11 +10,11 @@ Dictionary
 Loops 
 Function
 ```
+
+# Machine Learning Topics
 ```
 I have knowledge of Python but I am a beginner in Machine Learning.
 ```
-
-# Machine Learning Topics
 ```
 Machine Learning Algorithms
 
@@ -41,3 +41,4 @@ Model Selection
 # Deep Learning Topics
 ```
 I have knowledge of Deep Learning. but not worked on it.
+```
